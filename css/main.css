@@ -18,5 +18,16 @@ body {
 .obstacle {
     background-color: crimson;
     position: absolute;
+    
+}
+
+#page-gameover {
+    background-color: grey;
+}
+#page-gameover h1{
+    text-align: center;
+    font-size: 16rem;
+    color: crimson;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
